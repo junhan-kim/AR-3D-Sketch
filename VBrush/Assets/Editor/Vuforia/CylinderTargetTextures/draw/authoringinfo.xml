@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="bling_bluemato_11point5" version="3.0" targetId="8b1fdc4feb6e412fbb4ff603659a2402" sideLength="0.115000" topDiameter="0.055000" bottomDiameter="0.055000" sideImage="bling_bluemato_11point5.Body_scaled.jpg" topImage="bling_bluemato_11point5.Top_scaled.jpg" bottomImage="bling_bluemato_11point5.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
